@@ -1,4 +1,4 @@
-package io.p4r53c.beersheba24.into;
+package io.p4r53c.beersheba24.calculations;
 
 /**
  * First demo class for Beersheva 24 TR Course

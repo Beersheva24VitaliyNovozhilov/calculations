@@ -5,9 +5,10 @@ import java.io.PrintStream;
 import static org.junit.Assert.assertEquals;
 import org.junit.Before;
 import org.junit.Test;
-import org.junit.After;
 
-import io.p4r53c.beersheba24.into.Main;
+import io.p4r53c.beersheba24.calculations.Main;
+
+import org.junit.After;
 
 public class MainTest {
 
