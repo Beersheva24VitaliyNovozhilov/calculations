@@ -44,7 +44,7 @@
                     <configuration>
                       <transformers>
                         <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                          <mainClass>io.p4r53c.beersheba24.into.Main</mainClass>
+                          <mainClass>io.p4r53c.beersheba24.calculations.Main</mainClass>
                         </transformer>
                       </transformers>
                     </configuration>
